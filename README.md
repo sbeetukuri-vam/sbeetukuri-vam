@@ -1,4 +1,4 @@
-### Hi there 👋
+This is a sample README profile
 
 <!--
 **sbeetukuri-vam/sbeetukuri-vam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
